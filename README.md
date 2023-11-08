@@ -16,7 +16,11 @@ This program uses an artifical reccurent neural network called long short term m
 - Works best with the following applications.
 
   # Visual Studio Code
-  # Google Colabatory - https://colab.research.google.com/drive/1l17yRnNIZkzk6ypO4jORr4V8OV3voWek?usp=sharing
+  # Google Colabatory
+
+# Link
+
+https://colab.research.google.com/drive/1l17yRnNIZkzk6ypO4jORr4V8OV3voWek?usp=sharing
 
 ## Built With Google Colabatory
 ## By Hamza A. Shafie
